@@ -1,6 +1,6 @@
-# jeng
+# Nutdanai_jeng
 
-currently studying economics at chulalongkorn university
+currently studying economics at KMITL
 
 ## Badges
 
